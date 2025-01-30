@@ -40,38 +40,38 @@ body {
 }
 
 .button {
-    background-color: #756157;
-    border-radius: 4px;
-    text-align: center;
-    color: #ffffff;
-    text-decoration: none;
+	background-color: #756157;
+	border-radius: 4px;
+	text-align: center;
+	color: #ffffff;
+	text-decoration: none;
 }
 
 .button-brand-color {
-    background-color: #82b3d3;
-    border-radius: 4px;
-    text-align: center;
-    color: #ffffff;
-    text-decoration: none;
+	background-color: #82b3d3;
+	border-radius: 4px;
+	text-align: center;
+	color: #ffffff;
+	text-decoration: none;
 }
 
 a.button {
-    padding: 8px 50px;
-    width: 376px;
-    height: 52px;
+	padding: 8px 50px;
+	width: 376px;
+	height: 52px;
 }
 
 .icon-favorites {
-    font-weight: 400;
-    font-size: 10px;
-    line-height: 100%;
-    text-align: center;
-    color: #ffffff;
+	font-weight: 400;
+	font-size: 10px;
+	line-height: 100%;
+	text-align: center;
+	color: #ffffff;
 
-    background-color: #7DB54F;
-    border-radius: 50%;
-    width: 20px; 
-    height: 20px;
+	background-color: #7db54f;
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
 }
 
 .hero {
@@ -156,267 +156,268 @@ a.button {
 /*Блок "Заинтересовась?"*/
 
 .interest {
-    text-align: center;
+	text-align: center;
 }
 
 .interest-title {
-    font-weight: 700;
-    font-size: 30px;
-    line-height: 120%;
-    text-transform: uppercase;
-    text-align: center;
-    color: #000000;
+	font-weight: 700;
+	font-size: 30px;
+	line-height: 120%;
+	text-transform: uppercase;
+	text-align: center;
+	color: #000000;
 }
 
 .interest-text {
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 118%;
-    text-align: center;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 118%;
+	text-align: center;
 }
 
 .interest-link {
 	font-weight: 700;
-    font-size: 20px;
-    line-height: 180%;
-    text-transform: uppercase;
-    color: #ffffff;
+	font-size: 20px;
+	line-height: 180%;
+	text-transform: uppercase;
+	color: #ffffff;
 	text-decoration: none;
 
-    padding: 8px 50px;
-    width: 376px;
-    height: 52px;
+	padding: 8px 50px;
+	width: 376px;
+	height: 52px;
 }
 
 /*Рассылка*/
 
 .subscribe {
-    background-color: #000000;
+	background-color: #000000;
 	background-image: url("../images/decorative/subscribe-background.jpg");
 	background-size: 100% auto;
 	background-repeat: no-repeat;
-    color: #ffffff;
+	color: #ffffff;
 	text-align: center;
-    
-    width: 1200px;
-    height: 414px;
+
+	width: 1200px;
+	height: 414px;
 }
 
 .subscribe-title {
-    font-weight: 700;
-    font-size: 30px;
-    line-height: 120%;
-    text-transform: uppercase;
+	font-weight: 700;
+	font-size: 30px;
+	line-height: 120%;
+	text-transform: uppercase;
 }
 
 .subscribe-text {
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 118%;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 118%;
 }
 
 .subscribe-input {
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 133%;
-    color: #000000;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 133%;
+	color: #000000;
 
-    background-color: #F2F2F2;
-    border-radius: 4px 0 0 4px;
-    padding: 12px 20px;
-    width: 412px;
-    height: 28px;
-    border: none;
+	background-color: #f2f2f2;
+	border-radius: 4px 0 0 4px;
+	padding: 12px 20px;
+	width: 412px;
+	height: 28px;
+	border: none;
 }
 
 .subscribe-button {
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 180%;
-    text-transform: uppercase;
-    color: #ffffff;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 180%;
+	text-transform: uppercase;
+	color: #ffffff;
 
-    border-radius: 0 4px 4px 0;
-    padding: 8px 50px;
-    width: 232px;
-    height: 52px;
-    border: none;
+	border-radius: 0 4px 4px 0;
+	padding: 8px 50px;
+	width: 232px;
+	height: 52px;
+	border: none;
 }
 
 /*Футер*/
- 
+
 .contacts-phone {
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 100%;
-    text-transform: uppercase;
-    text-align: center;
-    color: #000000;
-    text-decoration: none;
-  }
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 100%;
+	text-transform: uppercase;
+	text-align: center;
+	color: #000000;
+	text-decoration: none;
+}
 
-  /*Каталог*/
+/*Каталог*/
 
-  .inner-container {
-    background-color: #000000;
-    background-image: url("../images/decorative/filter-background.jpg");
-    background-size: 100% auto;
+.inner-container {
+	background-color: #000000;
+	background-image: url("../images/decorative/filter-background.jpg");
+	background-size: 100% auto;
 	background-repeat: no-repeat;
-    color: #ffffff;
-  }
+	color: #ffffff;
+}
 
-  .main-inner-titel {
-    font-weight: 700;
-    font-size: 60px;
-    line-height: 130%;
-  }
-  
-  .breadcrumbs-link {
-    font-family: "PT Sans", sans-serif;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 131%;
-    color: #ffffff;
-    text-decoration: none;
-  }
+.main-inner-titel {
+	font-weight: 700;
+	font-size: 60px;
+	line-height: 130%;
+}
 
-  .filter-title {
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 120%;
-    text-transform: capitalize;
-    color: #ffffff;
-  }
+.breadcrumbs-link {
+	font-family: "PT Sans", sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 131%;
+	color: #ffffff;
+	text-decoration: none;
+}
 
-  .control-input {
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 128%;
-    color: #ffffff;
-  }
+.filter-title {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 120%;
+	text-transform: capitalize;
+	color: #ffffff;
+}
 
-  .filter-value {
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 133%;
-    text-align: right;
-    color: #000000;
-  }
+.control-input {
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 128%;
+	color: #ffffff;
+}
 
-  .filter-prompt {
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 133%;
-    color: #000000;
-  }
+.filter-value {
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 133%;
+	text-align: right;
+	color: #000000;
+}
 
-  .filter-button {
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 125%;
-    color: #ffffff;
-    text-transform: uppercase;
+.filter-prompt {
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 133%;
+	color: #000000;
+}
 
-    width: 191px;
-    height: 36px;
-  }
+.filter-button {
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 125%;
+	color: #ffffff;
+	text-transform: uppercase;
 
-  button.filter-button {
-    background-color: rgba(0, 0, 0, 0);
-  }
+	width: 191px;
+	height: 36px;
+}
 
-  .catalog-title {
-    font-weight: 700;
-    font-size: 30px;
-    line-height: 120%;
-    text-transform: uppercase;
-    color: #000000;
-  }
+button.filter-button {
+	background-color: rgba(0, 0, 0, 0);
+}
 
-  .catalog-button {
-    background-color: #ffffff;
-    border: 2px solid #E5E5E5;
-    border-radius: 4px;
-  }
+.catalog-title {
+	font-weight: 700;
+	font-size: 30px;
+	line-height: 120%;
+	text-transform: uppercase;
+	color: #000000;
+}
 
-  .select-control {
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 117%;
+.catalog-button {
+	background-color: #ffffff;
+	border: 2px solid #e5e5e5;
+	border-radius: 4px;
+}
 
-    width: 292px;
-    height: 49px;
-  }
-  
-  /*Карточка*/
+.select-control {
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 117%;
 
-  .hotel-card-title {
-    font-weight: 700;
-    font-size: 24px;
-    line-height: 117%;
-    color: #000000;
-  }
+	width: 292px;
+	height: 49px;
+}
 
-  .description-housing, .description-price {
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 117%;
-  }
+/*Карточка*/
 
-  .more-button {
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 125%;
-    text-transform: uppercase;
-    text-align: center;
+.hotel-card-title {
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 117%;
+	color: #000000;
+}
 
-    padding: 8px 50px;
-    width: 140px;
-    height: 36px;
-  }
+.description-housing,
+.description-price {
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 117%;
+}
 
-  .favorite-button {
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 125%;
-    text-transform: uppercase;
-    text-align: center;
+.more-button {
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 125%;
+	text-transform: uppercase;
+	text-align: center;
 
-    padding: 8px 50px;
-    width: 140px;
-    height: 36px;
-  }
+	padding: 8px 50px;
+	width: 140px;
+	height: 36px;
+}
 
-  .raiting {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 125%;
-    text-transform: uppercase;
-    text-align: center;
+.favorite-button {
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 125%;
+	text-transform: uppercase;
+	text-align: center;
 
-    background-color: #F2F2F2;
-    border-radius: 4px;
+	padding: 8px 50px;
+	width: 140px;
+	height: 36px;
+}
 
-    width: 140px;
-    height: 36px;
-  }
+.raiting {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 125%;
+	text-transform: uppercase;
+	text-align: center;
 
-  /*Пагинация*/
+	background-color: #f2f2f2;
+	border-radius: 4px;
 
-  .pagination-link {
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 180%;
-  }
+	width: 140px;
+	height: 36px;
+}
 
-  /*Рассылка в каталоге*/
-  
-  .subscribe-inner {
-    text-align: center;
-    width: 1200px;
-    height: 414px;
-  }
+/*Пагинация*/
 
-  .subscribe-title-inner {
-    color: #000000;
-  }
+.pagination-link {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 180%;
+}
+
+/*Рассылка в каталоге*/
+
+.subscribe-inner {
+	text-align: center;
+	width: 1200px;
+	height: 414px;
+}
+
+.subscribe-title-inner {
+	color: #000000;
+}
